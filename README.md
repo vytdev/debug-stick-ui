@@ -17,6 +17,8 @@ Found the [Debug Stick][debug-stick] add-on a bit hard to use? Try this one.
 
 This add-on is an official fork of the Debug Stick port to Bedrock Edition.
 
+![overview][img-overview]
+
 ## 🎁 How To Get It?
 
 1. [Download the add-on][releases] for your Minecraft version.
@@ -57,5 +59,6 @@ Licensed under the MIT License.
 [dload]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick-ui/files
 
 [img-logo]: https://raw.github.com/vytdev/debug-stick-ui/master/BP/pack_icon.png
+[img-overview]: https://raw.github.com/vytdev/debug-stick-ui/master/doc/img1.png
 
 [debug-stick]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick

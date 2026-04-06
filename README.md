@@ -1,6 +1,7 @@
 <div align="center">
 
-![icon][img-logo]
+<img src="https://raw.github.com/vytdev/debug-stick-ui/master/BP/pack_icon.png"
+  width="128px" height="128px" />
 
 # Debug Stick UI
 
@@ -58,7 +59,6 @@ Licensed under the MIT License.
 [releases]: https://github.com/vytdev/debug-stick-ui/releases
 [dload]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick-ui/files
 
-[img-logo]: https://raw.github.com/vytdev/debug-stick-ui/master/BP/pack_icon.png
 [img-overview]: https://raw.github.com/vytdev/debug-stick-ui/master/doc/img1.png
 
 [debug-stick]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick

@@ -68,7 +68,7 @@ Licensed under the MIT License.
 
 <!-- long links -->
 
-[curseforge-dl]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick-ui/files
+[curseforge-dl]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick-ui-variant/files
 
 [debug-stick]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick
 

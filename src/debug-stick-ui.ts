@@ -1,5 +1,5 @@
 /*!
- * Debug Stick -- A Bedrock port of the debug stick tool from Java Edition.
+ * Debug Stick UI -- A UI variant of the Debug Stick Bedrock add-on.
  * Copyright (c) 2023-2026 Vincent Yanzee J. Tan <https://vytdev.github.io>
  *
  * This project is licensed under the MIT License.
@@ -36,7 +36,7 @@ export function openUI(ctx:
   form.title('§6Debug Stick UI§r');
   form.label(
     '§7This is an experimental feature.\n' +
-    `Debug Stick v${config.version} (${config.shCommit})§r\n` +
+    `Debug Stick UI v${config.version} (${config.shCommit})§r\n` +
     '\n' +
     `Modifying properties of block: §b§l${ctx.block.typeId}§r`
   );

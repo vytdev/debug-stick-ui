@@ -6,9 +6,9 @@ import { formatString } from './utils.js';
 /**
  * These stay constant.
  */
-const PACK_UUID = '21aadfa6-e27c-400c-c596-596021852939';
-const MODULE_DATA_UUID = 'd8a9ff21-7aa3-4b83-73ed-eeb141516e74';
-const MODULE_SCRIPT_UUID = '86c7bab4-aed9-4297-5f0c-d5d62bd30be1';
+const PACK_UUID = '485e02d9-87e6-4505-a210-041d4778e026';
+const MODULE_DATA_UUID = '735e32f9-73d7-4946-89d4-8b4422822328';
+const MODULE_SCRIPT_UUID = 'c688182b-4950-477d-8b06-71807fe513bc';
 
 
 /**
@@ -50,7 +50,7 @@ export function genManifest() {
     metadata: {
       authors:              [ 'VYT' ],
       license:              'MIT',
-      url:                  'https://github.com/vytdev/debug-stick',
+      url:                  'https://github.com/vytdev/debug-stick-ui',
     },
   }
 }

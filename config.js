@@ -16,17 +16,17 @@ export default {
   /**
    * Pack filename format.
    */
-  outFileFmt: 'debug-stick.{version}.mcpack',
+  outFileFmt: 'debug-stick-ui.{version}.mcpack',
 
   /**
    * Pack name.
    */
-  packName: 'Debug Stick',
+  packName: 'Debug Stick UI',
 
   /**
    * The current version.
    */
-  packVersion: '26.10.1-rc.1',
+  packVersion: '26.10.1',
 
   /**
    * Minimum Minecraft version required.
@@ -44,11 +44,10 @@ export default {
   packDescription: [
     '§7v{version} ({shCommit}) MCBE {minMcVer}+§r',
     '',
-    'Java §aDebug Stick§r ported to Minecraft: Bedrock Edition, by §bvytdev§r',
-    'Use §e/give @s vyt:debug_stick§r to get the §dDebug Stick§r.',
+    'A UI-based variant of the §aDebug Stick§r add-on, by §bvytdev§r',
     'Use §e/give @s vyt:debug_stick_ui§r to get the §6Debug Stick UI§r.',
     '',
-    'Report bugs here: §bhttps://github.com/vytdev/debug-stick/§r',
+    'Report bugs here: §bhttps://github.com/vytdev/debug-stick-ui/§r',
     'Copyright (c) 2023-2026 Vincent Yanzee J. Tan',
     'Licensed under the MIT License.',
   ].join('\n'),

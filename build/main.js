@@ -8,7 +8,7 @@ const actionTable = {};
 /* --- HELP --- */
 actionTable['help'] = () => console.error(
   `usage: ${process.argv[1]} [task...]\n` +
-  'Utility script for working with the debug-stick project.\n' +
+  'Utility script for working with the debug-stick-ui project.\n' +
   'Available tasks:\n' +
   '  help           Shows this help\n' +
   '  pack           Create dist package\n' +

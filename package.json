@@ -1,5 +1,5 @@
 {
-  "name": "debug-stick",
+  "name": "debug-stick-ui",
   "type": "module",
   "scripts": {
     "test": "npx tsc",

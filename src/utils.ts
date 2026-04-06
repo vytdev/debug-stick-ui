@@ -1,5 +1,5 @@
 /*!
- * Debug Stick -- A Bedrock port of the debug stick tool from Java Edition.
+ * Debug Stick UI -- A UI variant of the Debug Stick Bedrock add-on.
  * Copyright (c) 2023-2026 Vincent Yanzee J. Tan <https://vytdev.github.io>
  *
  * This project is licensed under the MIT License.
@@ -29,17 +29,6 @@ export function defer<A extends any[], R>(
       catch (e) { rej(e); }
     })
   })
-}
-
-
-/**
- * Cycle through an array.
- * @param arr The array.
- * @param curr The current value in the array.
- * @returns Next value.
- */
-export function cycleArray<T>(arr: Array<T>, curr: T): T {
-  return arr[(arr.indexOf(curr) + 1) % arr.length];
 }
 
 

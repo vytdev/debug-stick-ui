@@ -1,5 +1,5 @@
 /*!
- * Debug Stick -- A Bedrock port of the debug stick tool from Java Edition.
+ * Debug Stick UI -- A UI variant of the Debug Stick Bedrock add-on.
  * Copyright (c) 2023-2026 Vincent Yanzee J. Tan <https://vytdev.github.io>
  *
  * This project is licensed under the MIT License.
@@ -7,8 +7,6 @@
  * See LICENSE for the full terms.
  */
 
-import { enableDebugStick } from './debug-stick.js';
 import { enableDebugStickUI } from './debug-stick-ui.js';
 
-enableDebugStick();
 enableDebugStickUI();

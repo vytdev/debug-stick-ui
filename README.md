@@ -54,7 +54,7 @@ Licensed under the MIT License.
 
 <!-- long links -->
 
-[mcpedl]: https://mcpedl.com/debug-stick-ui
+[mcpedl]: https://mcpedl.com/debug-stick-ui-variant
 [curseforge]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick-ui-variant
 [releases]: https://github.com/vytdev/debug-stick-ui/releases
 [dload]: https://www.curseforge.com/minecraft-bedrock/addons/debug-stick-ui-variant/files

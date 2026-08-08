@@ -35,7 +35,6 @@ export function openUI(ctx:
 
   form.title('§6Debug Stick UI§r');
   form.label(
-    '§7This is an experimental feature.\n' +
     `Debug Stick UI v${config.version} (${config.shCommit})§r\n` +
     '\n' +
     `Modifying properties of block: §b§l${ctx.block.typeId}§r`
